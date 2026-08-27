@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Abishek 👋
 
-<!--
-**abishekey/abishekey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building clean, functional web applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: [my-portfolio](https://github.com/abishekey/my-portfolio)
+- 🌱 Learning: (fill in what you're learning — React, Node, etc.)
+- 💬 Ask me about: HTML, CSS, JavaScript
+- 📫 Reach me: (your email or LinkedIn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
