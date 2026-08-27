@@ -3,9 +3,9 @@
 Web Developer focused on building clean, functional web applications.
 
 - 🔭 Currently working on: [my-portfolio](https://github.com/abishekey/my-portfolio)
-- 🌱 Learning: (fill in what you're learning — React, Node, etc.)
-- 💬 Ask me about: HTML, CSS, JavaScript
-- 📫 Reach me: (your email or LinkedIn)
+- 🌱 Learning:REDOX,API,BACKEND
+- 💬 Ask me about: HTML, CSS, JavaScript,REACT
+- 📫 Reach me: itzabishek3@gmail.com
 
 ### Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
